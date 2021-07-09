@@ -1,0 +1,8 @@
+fastparquet
+kaleido
+matplotlib
+numpy
+pandas
+plotly
+seaborn
+tqdm

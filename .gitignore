@@ -1,3 +1,8 @@
+## Custom
+allensdk_storage/
+iframe_figures/
+allen_visual_behavior_2p_change_detection_familiar_novel_image_sets.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
