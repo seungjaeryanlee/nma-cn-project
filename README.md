@@ -1,11 +1,21 @@
-# Does engagement matter: 
-## Do mice see the world differently when they don't care?
+# nma-cn-project
+## Does engagement matter: Do mice see the world differently when they don't care?
+
 Following repository contains code for the Project for Neuromatch Academy: Computational Neuroscience.
+Traditionally V1/VISp is considered a simple feature detector.Stimulus representation in A1 adapts to engagement in go/no-go task.
+Does stimulus representation in V1 also differ depending on engagement (active) and disengagement (passive)?
 
-Traditionally V1/VISp is considered a simple feature detectorStimulus representation in A1 adapts to engagement in go/no-go task.
+Cell & population level investigation was done.
 
 
-# References
+## Results
+For detailed analysis and results refer [NMA-2021-AwareWolfs.pdf](NMA-2021-AwareWolfs.pdf)
+- On single cell level our methods yield no clear results.
+- Population level dissimilarity (RDM) hints at the difference between active and passive 
+session, but with control (pre-stimuli) this difference appears independent of the stimuli.
+
+
+## References
 
 - Bagur, S., Averseng, M., Elgueda, D., David, S., Fritz, J., Yin, P., Shamma, S., Boubenec, Y., & Ostojic, S. (2018). 
 Go/No-Go task engagement enhances population representation of target stimuli in primary auditory cortex. Nature 
