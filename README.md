@@ -13,7 +13,7 @@ Cell & population level investigation was done.
 - Population level dissimilarity (RDM) hints at the difference between active and passive 
 session, but with control (pre-stimuli) this difference appears independent of the stimuli.
 
-For detailed analysis and results refer [Presentation file](NMA-2021-AwareWolfs.pdf)
+For detailed analysis refer (single_cell_analysis)[single_cell_analysis.pdf] ,  and results refer [Presentation file](NMA-2021-AwareWolfs.pdf) and 
 
 ### References
 
