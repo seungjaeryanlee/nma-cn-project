@@ -6,3 +6,5 @@ pandas
 plotly
 seaborn
 tqdm
+allensdk
+mindscope-utilities
