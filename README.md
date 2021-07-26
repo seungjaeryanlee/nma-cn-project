@@ -8,14 +8,14 @@ Does stimulus representation in V1 also differ depending on engagement (active) 
 Cell & population level investigation was done.
 
 
-## Results
-For detailed analysis and results refer [Presentation file](NMA-2021-AwareWolfs.pdf)
+### Conclusions
 - On single cell level our methods yield no clear results.
 - Population level dissimilarity (RDM) hints at the difference between active and passive 
 session, but with control (pre-stimuli) this difference appears independent of the stimuli.
 
+For detailed analysis and results refer [Presentation file](NMA-2021-AwareWolfs.pdf)
 
-## References
+### References
 
 - Bagur, S., Averseng, M., Elgueda, D., David, S., Fritz, J., Yin, P., Shamma, S., Boubenec, Y., & Ostojic, S. (2018). 
 Go/No-Go task engagement enhances population representation of target stimuli in primary auditory cortex. Nature 
