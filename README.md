@@ -7,13 +7,19 @@ Does stimulus representation in V1 also differ depending on engagement (active) 
 
 Cell & population level investigation was done.
 
+### Requirements
 
-### Conclusions
+Requirements are mentioned in the [requirements.txt](requirements.txt) file. 
+Moreover, dataset can be accessed from the following [allen-sdk api](https://allensdk.readthedocs.io/en/latest/visual_behavior_optical_physiology.html)
+
+
+### Results 
 - On single cell level our methods yield no clear results.
 - Population level dissimilarity (RDM) hints at the difference between active and passive 
 session, but with control (pre-stimuli) this difference appears independent of the stimuli.
 
-For detailed analysis refer (single_cell_analysis)[single_cell_analysis.pdf] ,  and results refer [Presentation file](NMA-2021-AwareWolfs.pdf) and 
+Refer following notebooks for [single cell](single_cell_analysis.ipynb)  and [population level analysis](population_analysis.ipynb)
+For detailed results refer [Presentation file](NMA-2021-AwareWolfs.pdf) and 
 
 ### References
 
